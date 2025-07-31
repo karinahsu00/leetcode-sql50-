@@ -31,8 +31,7 @@ This repository tracks my journey solving 50 essential SQL problems—organized 
 
 ## 📁 Folder Structure
 
-📂 solutions/ # One .sql file per question
-└── 001.sql # e.g., 001. Combine Two Tables<br>
+📂 solutions/ 0**-Name of Questions<br>
 📄 README.md # This file
 
 <br>
